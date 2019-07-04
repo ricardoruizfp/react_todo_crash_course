@@ -7,7 +7,7 @@ This application was built following the 2019 [React Crash Course](https://www.y
 
 The purpose of this was to learn:
 
-- Building and using class components;
+- Building and using class and functional components;
 - State and lifecycle;
 - JSX;
 - Event handling;
