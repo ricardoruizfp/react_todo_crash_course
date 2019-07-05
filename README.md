@@ -17,7 +17,7 @@ The purpose of this was to learn:
 
 This app was taught under the instruction of Brad Traversy, with the intent of solidifying the React knowledge I garnered from CodeClan, as it was taken months after I completed the course.
 
-This is a simple app, and is hosted over [here](https://alluring-lassen-volcanic-93908). A full stack MERN app will be developed soon (when it is, I'll update this readme 😃)
+This is a simple app, and is hosted over [here](https://alluring-lassen-volcanic-93908.herokuapp.com/). A full stack MERN app will be developed soon (when it is, I'll update this readme 😃)
 
 ## How to run
 ```
