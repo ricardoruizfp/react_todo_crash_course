@@ -19,4 +19,16 @@ This app was taught under the instruction of Brad Traversy, with the intent of s
 
 This is a simple app, and will not be hosted for perusing. A full stack MERN app will be developed soon (when it is, I'll update this readme 😃)
 
+## How to run
+```
+# Install dependencies
+npm install
+
+# Serve on localhost:3000
+npm start
+
+# Build for production
+npm run build
+```
+
 ### *Thanks for vising!*
